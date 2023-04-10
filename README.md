@@ -1,6 +1,8 @@
 🌺Welcome🌺
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/Warning.gif">
+
 
 
 
@@ -49,4 +51,4 @@ Pass : IN
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=SMS-PRO&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
-## Thanks For Visiting 🧡🧡
+### Thanks For Visiting 🧡🧡
