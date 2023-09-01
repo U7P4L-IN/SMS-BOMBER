@@ -3,18 +3,13 @@
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 <p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/Warning.gif">
 
-
-
-
-AUTHOR:
 <p align="center">
-U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
-
-</br>
-<p align="center">
-      Unlimited send sms target victims phone number
-
-</p>
+SMS Bombing is an attack where a large number of messages are sent to a particular number in a very short period of time, to harass a user or disrupt the normal working of a device <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
+#### Command Log In :
+```python
+Username : U7P4L
+Pass : 1N
+```
   
 #### INSTALL TOOL ON TERMUX
 ```python
@@ -35,11 +30,6 @@ U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/h
  ls
 
  python SMS-PRO.py
-```
-#### Command Log In :
-```python
-Username : U7P4L
-Pass : IN
 ```
 
 #### Screenshots:
