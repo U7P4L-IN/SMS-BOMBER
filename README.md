@@ -14,23 +14,19 @@ Pass : 1N
   
 #### INSTALL TOOL ON TERMUX
 ```python
- pkg update
- pkg upgrade
- pkg install python
- pkg install git
- pip install requests
- pip install bs4
- pip install futures
- pip install mechanize
- cd $HOME 
- rm -rf SMS-PRO
- git clone --depth=1 https://github.com/U7P4L-IN/SMS-PRO.git
+ apt update && apt upgrade -y
 
- cd SMS-PRO
+pkg install git
 
- ls
+pkg install python
+rm -rf SMS-PRO
+git clone --depth=1 https://github.com/U7P4L-IN/SMS-PRO.git
 
- python SMS-PRO.py
+cd SMS-PRO
+
+ls
+
+python SMS-PRO.py
 ```
 
 #### Screenshots:
