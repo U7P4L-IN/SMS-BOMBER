@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SMS%20BOMBER&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AUTO%20SMS%20BOMBING%20TOOLS%20FOR %20SENDING%20SPAM%20MASSAGE!&descAlignY=51&descAlign=62" width="100%"/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SMS%20BOMBER&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AUTO%20SMS%20BOMBING%20TOOLS%20FOR%20SENDING%20SPAM%20MASSAGE!&descAlignY=51&descAlign=62" width="100%"/>
 </p>
 
 </p>
@@ -71,6 +71,11 @@ python3 SMS-BOMBER.py
 <p align="center"><img src="/image/demo3.png">
 <p align="center"><img src="/image/demo4.png">
     
+</br>
+
+<p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="300" height="100" src="https://i.imgur.com/N7AK7XY.png"></a></p>
+
+</br>
 
 ### Tools Languages :
 
